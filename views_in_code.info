@@ -1,0 +1,4 @@
+name = Views In Code
+description = Saves Drupal Views code in .inc file.
+core = 7.x
+dependencies[] = views
